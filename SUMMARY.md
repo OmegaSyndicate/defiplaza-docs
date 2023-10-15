@@ -4,6 +4,7 @@
 
 ## Introduction
 
+* [Getting started](introduction/getting-started.md)
 * [Official Links](introduction/official-links.md)
 * [Team](introduction/team.md)
 * [White Papers](introduction/white-papers.md)
