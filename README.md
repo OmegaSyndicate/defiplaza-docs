@@ -1,6 +1,5 @@
 ---
 description: The best deal for swapping tokens on Ethereum & Radix
-layout: landing
 ---
 
 # Welcome to DefiPlaza
