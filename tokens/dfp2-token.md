@@ -2,7 +2,7 @@
 
 DFP2 is the governance token of DefiPlaza. It is used to make governance decisions on the future of the DefiPlaza project.
 
-DFP2 exists on both Ethereum and Radix and is conntected via the DFP2 Bridge
+DFP2 exists on both Ethereum and Radix and is connected via the [DFP2 Bridge](https://bridge.defiplaza.net)
 
 #### Ethereum
 
@@ -32,13 +32,13 @@ Radix Olympia resource address
 
 ### Utility
 
-Holders of DFP2 can particiapte in the DefiPlaza DAO by voting on, or creating new, governance votes.&#x20;
+Holders of DFP2 can participate in the DefiPlaza DAO by voting on or creating new governance votes.&#x20;
 
-On Radix, DFP2 is used as the internal LP token for each pair, meaning that each token is paired against DFP2 as quote token.&#x20;
+On Radix, DFP2 is used as the internal LP token for each pair, meaning that each token is paired against DFP2 as the quote token.&#x20;
 
 ### Tokenomics
 
-DFP2 has a total supply of 67.941.915 tokens and all tokens have been brought into circulation since October 2022. No tokens are currently locked.
+DFP2 has a total supply of 67.941.915 tokens, and all tokens are in circulation since October 2022. No tokens are currently locked since the team's vesting ended in October 2022 as well.
 
 
 
