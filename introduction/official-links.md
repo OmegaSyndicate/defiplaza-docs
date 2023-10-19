@@ -1,15 +1,15 @@
 # Official Links
 
-* Website: https://defiplaza.net
-* Blog: https://defiplaza.net/blog
-* Docs: https://docs.defiplaza.net
-* Governance: https://vote.defiplaza.net
+* Website: [https://defiplaza.net](https://defiplaza.net)
+* Blog: [https://defiplaza.net/blog](https://defiplaza.net/blog)
+* Docs: [https://docs.defiplaza.net](https://docs.defiplaza.net)
+* Governance: [https://vote.defiplaza.net](https://vote.defiplaza.net)
 
 ### Community
 
-* Telegram: https://t.me/defiplaza
-* X (formerly Twitter): https://x.com/defiplaza
-* Github: https://github.com/OmegaSyndicate
+* Telegram: [https://t.me/defiplaza](https://t.me/defiplaza)
+* X (formerly Twitter): [https://x.com/defiplaza](https://x.com/defiplaza)
+* Github: [https://github.com/OmegaSyndicate](https://github.com/OmegaSyndicate)
 
 ### Listing sites
 
