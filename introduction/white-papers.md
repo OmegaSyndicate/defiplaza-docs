@@ -1,6 +1,6 @@
 # White Papers
 
-### DefiPlaza on Radix White Paper
+### CALM (DefiPlaza on Radix) White Paper
 
 Keep CALM and carry on: sustainable DeFi on Radix\
 October 18, 2023, by Jazzer9F
