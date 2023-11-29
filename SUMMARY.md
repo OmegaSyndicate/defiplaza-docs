@@ -27,3 +27,4 @@
   * [Create new Pair](radix/providing-liquidity/create-new-pair.md)
   * [Add Liquidity](radix/providing-liquidity/add-liquidity.md)
   * [Remove Liquidity](radix/providing-liquidity/remove-liquidity.md)
+* [Transaction Manifests](radix/transaction-manifests.md)
