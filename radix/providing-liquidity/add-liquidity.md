@@ -22,4 +22,16 @@ Now the starting point is 100/0 and 0/100. When someone trades 10 to buy A, the 
 
 But if you now want to add more liquidity to token A, you have to add 1/9th of token B to keep it fair for everybody. If we wouldn't do that, you would get too many LP tokens since we would only count token A and ignore the B part.
 
+**How is the APY calculated?**
+
+Most APYs are calculated by taking the fee income over a few days and extrapolating that to a whole year.
+
+DefiPlaza believes that Impermanent Loss is LP Providers' most significant net income killer and has developed the CALM algorithm to reduce the IL risk.&#x20;
+
+Therefore, the APY on DefiPlaza is based on the standard calculations used to calculate IL:
+
+* We take the balances of 14 days ago and multiply them by the current USD value of the tokens
+* We take the current balances and multiply them by the current USD value of the tokens
+* The difference is the IL and the APY since the fee income is part of the current balances.
+
 \
