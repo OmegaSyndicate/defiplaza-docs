@@ -28,3 +28,4 @@
   * [Add Liquidity](radix/providing-liquidity/add-liquidity.md)
   * [Remove Liquidity](radix/providing-liquidity/remove-liquidity.md)
 * [Transaction Manifests](radix/transaction-manifests.md)
+* [FAQ](radix/faq.md)
