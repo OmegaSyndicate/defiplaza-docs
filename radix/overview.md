@@ -1,3 +1,7 @@
+---
+description: Reduce the risk of Impermanent Loss with DefiPlaza's CALM algorithm.
+---
+
 # Overview
 
 RadixPlaza is a DEX specifically designed to reduce the risk of Impermanent Loss and help make DeFi sustainably profitable.
