@@ -17,7 +17,7 @@ Ethereum token contract
 {% hint style="success" %}
 Radix Babylon resource address
 
-`resource_rdx1thyqj6yn4rmc8awxqhz6d60q9t677tre0ervrqpzfp4fzc20s4cmce`
+`resource_rdx1t5ywq4c6nd2lxkemkv4uzt8v7x7smjcguzq5sgafwtasa6luq7fclq`
 {% endhint %}
 
 **Please note:** to use the latest features of the Radix Babylon network, the original Olympia DFP2 token is undergoing a migration program. Go to https://radix.defiplaza.net/migrate to quickly and for free upgrade your (old) $dfp2 tokens to the new $DFP2 tokens.&#x20;
@@ -25,9 +25,7 @@ Radix Babylon resource address
 The Olympia token can be recognized by the lowercase $dfp2 symbol and its resource address below.
 
 {% hint style="warning" %}
-Radix Olympia resource address
-
-`resource_rdx1thyqj6yn4rmc8awxqhz6d60q9t677tre0ervrqpzfp4fzc20s4cmce`
+Radi`ource_rdx1thyqj6yn4rmc8awxqhz6d60q9t677tre0ervrqpzfp4fzc20s4cmce`
 {% endhint %}
 
 ### Utility
