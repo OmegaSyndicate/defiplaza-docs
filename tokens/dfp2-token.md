@@ -25,7 +25,9 @@ Radix Babylon resource address
 The Olympia token can be recognized by the lowercase $dfp2 symbol and its resource address below.
 
 {% hint style="warning" %}
-Radi`ource_rdx1thyqj6yn4rmc8awxqhz6d60q9t677tre0ervrqpzfp4fzc20s4cmce`
+Radix Olympia resource address
+
+`resource_rdx1thyqj6yn4rmc8awxqhz6d60q9t677tre0ervrqpzfp4fzc20s4cmce`
 {% endhint %}
 
 ### Utility
