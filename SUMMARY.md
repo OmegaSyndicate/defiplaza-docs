@@ -15,10 +15,6 @@
 * [DFP2 Token](tokens/dfp2-token.md)
 * [LP Tokens](tokens/lp-tokens.md)
 
-## Ethereum
-
-* [Overview](ethereum/overview.md)
-
 ## Radix
 
 * [Overview](radix/overview.md)
@@ -29,3 +25,11 @@
   * [Remove Liquidity](radix/providing-liquidity/remove-liquidity.md)
 * [Transaction Manifests](radix/transaction-manifests.md)
 * [FAQ](radix/faq.md)
+
+## LaunchPlaza
+
+* [Staking](launchplaza/staking.md)
+
+## Ethereum DEX
+
+* [Overview](ethereum-dex/overview.md)
