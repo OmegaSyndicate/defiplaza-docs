@@ -18,12 +18,12 @@ Please read the depositing rewards section to understand how (and how not) to de
 
 ### Depositing Rewards
 
-DefiPlaza does not automatically deposit the rewards for you every X weeks. So instead of depositing all rewards at the start of the staking, you will have to deposit the X weekly rewards, every X weeks by going to the _Owner Tools_ and select _Staking Deposit_.
+DefiPlaza does not automatically deposit the rewards for you every week. So instead of depositing all rewards at the start of the staking, you will have to deposit the weekly rewards, every week by going to the _Owner Tools_ and select _Staking Deposit_.
 
-Do not deposit all rewards upfront! You will have to deposit them every X weeks (usually every week or month) by hand.
+Do not deposit all rewards upfront! You will have to deposit them every week (or which interval you choose when creating the staking) by hand. To help you, we already set the correct amount in the input field.
 
 **Example**\
-Let's say you want to share 200 tokens per week with the users who stake your tokens.. Instead of depositing 10400 at the start of the year, you will have to go DefiPlaza and deposit the 200 tokens every week by signing a transaction.
+Let's say you want to share 200 tokens per week with the users who stake your tokens. Instead of depositing 10400 tokens at the start of each year, you will have to go DefiPlaza and deposit 200 tokens every week by signing a transaction.
 
 **I deposit all my rewards at the start**\
 If you have deposited all your rewards at the beginning, you can get them back by unstaking your staked tokens. When you created the staking component, you received 1 staked token in return. That 1 staked token is now worth all the rewards that you deposited. By removing that token you will get the rewards back and you can then start depositing them on a weekly basis.
@@ -34,8 +34,8 @@ DefiPlaza does not charge a recurring subsscription fee to use the Staking featu
 
 #### Add stake / Unstake
 
-Every time a user stakes or unstakes it's token, a $0,10 royalty fee is charged to the user in XRD. This is paid as part of the transaction fee.
+Every time a user stakes or unstakes it's token, a $0,10 royalty fee is charged to the user in XRD. This fee is paid as part of the transaction fee.
 
 #### Deposit rewards
 
-When staking rewards are deposited into the contract a $0,50 royalty fee is charged in XRD. This is paid as part of the transaction fee.
+When staking rewards are deposited into the contract a $0,50 royalty fee is charged in XRD. This fee is paid as part of the transaction fee.
