@@ -6,7 +6,27 @@ To set up staking for your token we need to create the staking component first a
 
 We even offer an easy to use widget that you can include in your website, with a few themes to integrate it as nicely as possible.
 
-Pricing
+### Setting up Staking for your token
+
+To add staking to your token, find your token on [DefiPlaza's Token page](https://radix.defiplaza.net/tokens) and click the Info button. You might have to page through several pages, since we haven't added a search function yet. (Coming soon).
+
+On your token page, you select Owner Tools, and then click Staking. The wizard will guide you through setting up staking for your token.&#x20;
+
+To set up staking for your token we need to create the staking component first and then connect it to your token. The wizard will also help you set up the right metadata so it shows up in the wallet's transaction preview as part of your project.
+
+Please read the depositing rewards section to understand how (and how not) to deposit your staking rewards.
+
+### Depositing Rewards
+
+DefiPlaza does not automatically deposit the rewards for you every X weeks. So instead of depositing all rewards at the start of the staking, you will have to deposit the X weekly rewards, every X weeks by going to the _Owner Tools_ and select _Staking Deposit_.
+
+Do not deposit all rewards upfront! You will have to deposit them every X weeks (usually every week or month) by hand.
+
+**Example**\
+Let's say you want to share 200 tokens per week with the users who stake your tokens.. Instead of depositing 10400 at the start of the year, you will have to go DefiPlaza and deposit the 200 tokens every week by signing a transaction.
+
+**I deposit all my rewards at the start**\
+If you have deposited all your rewards at the beginning, you can get them back by unstaking your staked tokens. When you created the staking component, you received 1 staked token in return. That 1 staked token is now worth all the rewards that you deposited. By removing that token you will get the rewards back and you can then start depositing them on a weekly basis.
 
 ### Pricing and fees
 
