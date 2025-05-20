@@ -28,6 +28,8 @@ Let's say you want to share 200 tokens per week with the users who stake your to
 **I deposit all my rewards at the start**\
 If you have deposited all your rewards at the beginning, you can get them back by unstaking your staked tokens. When you created the staking component, you received 1 staked token in return. That 1 staked token is now worth all the rewards that you deposited. By removing that token you will get the rewards back and you can then start depositing them on a weekly basis.
 
+If you have deposited all your rewards after other people staked as well, you unfortunately have given those people a lot of rewards and you can't get them back. You could postpone depositing the weekly rewards for a while. Unfortunately, DefiPlaza can also not get those tokens back for you, so be careful and double check what you are doing.
+
 ### Pricing and fees
 
 DefiPlaza does not charge a recurring subsscription fee to use the Staking feature of Launchplaza, but has added small royalty fees to (un)staking and de\[ositing rewards.
